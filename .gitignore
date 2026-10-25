@@ -1,0 +1,5 @@
+﻿# Accesos directos personales de cada usuario
+apps/
+
+# El .exe compilado se sube en Releases, no al repositorio
+dist/
