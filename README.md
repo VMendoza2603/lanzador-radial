@@ -1,8 +1,30 @@
-# Lanzador radial
+<p align="center">
+  <img src="docs/logo.png" alt="Logo del Lanzador radial" width="110">
+</p>
 
-Un botón flotante para Windows que abre tus aplicaciones en un arco, **sin minimizar ni salir de la ventana en la que estás trabajando**.
+<h1 align="center">Lanzador radial</h1>
 
-![Lanzador radial abierto](docs/captura.png)
+<p align="center">
+  Un botón flotante para Windows que abre tus aplicaciones en un arco,<br>
+  <b>sin minimizar ni salir de la ventana en la que estás trabajando</b>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/VMendoza2603/lanzador-radial/releases/latest/download/LanzadorRadial.exe">
+    <img src="https://img.shields.io/badge/Descargar-LanzadorRadial.exe-2563eb?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar LanzadorRadial.exe">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VMendoza2603/lanzador-radial/releases/latest"><img src="https://img.shields.io/github/v/release/VMendoza2603/lanzador-radial?label=versi%C3%B3n" alt="Versión"></a>
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4" alt="Windows 10 y 11">
+  <img src="https://img.shields.io/badge/tama%C3%B1o-52%20KB-informational" alt="Tamaño 52 KB">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/VMendoza2603/lanzador-radial?label=licencia" alt="Licencia MIT"></a>
+</p>
+
+<p align="center">
+  <img src="docs/captura.png" alt="Lanzador radial abierto" width="640">
+</p>
 
 ## ¿Qué es y para qué sirve?
 
@@ -38,7 +60,7 @@ Medido en Windows 11 con un AMD Ryzen 7 5700G y 8 aplicaciones cargadas:
 
 ## Descargar y abrir
 
-1. Ve a **[Releases](../../releases/latest)** y descarga **`LanzadorRadial.exe`**.
+1. Pulsa el botón **Descargar** de arriba (o ve a **[Releases](../../releases/latest)**) para bajar **`LanzadorRadial.exe`**.
 2. Ponlo en la carpeta que quieras, por ejemplo `Documentos\LanzadorRadial` (o en una USB).
 3. Haz **doble clic**: aparece el botón abajo a la derecha.
 4. **Clic derecho** en el botón → **+** para agregar tus aplicaciones.
